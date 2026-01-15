@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @nuriman2308
-- 👀 I’m interested in Data Analytics and Science
-- 🌱 Know Databases, SQL and Python
-- 💞️ I’m looking to collaborate on the Data projects
-- 📫 How to reach me: 
-- mail: altybaeva1979@gmail.com
+👋 Hi, I’m Nuriman!
 
-<!---
-nuriman2308/nuriman2308 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 Associate Project Manager with experience in finance operations and process automation at PwC  
+🧠 Background in data analysis, user behavior research, and decision-support systems  
+🔄 I work at the intersection of business, analytics, and technology  
+📊 Focused on turning data insights into actionable product and process improvements  
 
+💼 Currently building a Project → Product Management career path  
+📫 Contact: altybaeva1979@gmail.com
